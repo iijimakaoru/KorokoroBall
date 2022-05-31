@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour{
-    public float power = 2;
+    public float power = 15;
     public Rigidbody rigidbody;
     // Start is called before the first frame update
     void Start(){
